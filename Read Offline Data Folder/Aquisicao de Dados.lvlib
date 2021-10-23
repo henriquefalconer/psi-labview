@@ -23,9 +23,12 @@
 		<Item Name="Configure Input Online.vi" Type="VI" URL="../VIs/Configure Input Online.vi"/>
 		<Item Name="FlattenByteArray.vi" Type="VI" URL="../VIs/FlattenByteArray.vi"/>
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
+		<Item Name="Get Modal Sampling Frequency.vi" Type="VI" URL="../VIs/Get Modal Sampling Frequency.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../VIs/Get Raw Data.vi"/>
+		<Item Name="Get XY from Waveform.vi" Type="VI" URL="/C/Users/marce/OneDrive/Documentos/USP/Semestre 4/PSI3214 - Lab. de Instrumetação Elétrica/Tutoriais/Tutorial 3 - 2020_09_13 v2.5/2020_09_13 - Tutorial 3/VIs/Get XY from Waveform.vi"/>
 		<Item Name="Help.vi" Type="VI" URL="../VIs/Help.vi"/>
 		<Item Name="Read Online Data.vi" Type="VI" URL="../VIs/Read Online Data.vi"/>
+		<Item Name="Vizualise Filter.vi" Type="VI" URL="/C/Users/marce/OneDrive/Documentos/USP/Semestre 4/PSI3214 - Lab. de Instrumetação Elétrica/Tutoriais/Tutorial 3 - 2020_09_13 v2.5/2020_09_13 - Tutorial 3/VIs/Vizualise Filter.vi"/>
 	</Item>
 	<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
 </Library>
