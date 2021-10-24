@@ -28,12 +28,10 @@
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
 		<Item Name="Get Modal Sampling Frequency.vi" Type="VI" URL="../VIs/Get Modal Sampling Frequency.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../VIs/Get Raw Data.vi"/>
-		<Item Name="Get XY from Waveform.vi" Type="VI" URL="../VIs/Get XY from Waveform.vi"/>
 		<Item Name="Help.vi" Type="VI" URL="../VIs/Help.vi"/>
 		<Item Name="Iterative Max Value.vi" Type="VI" URL="../VIs/Iterative Max Value.vi"/>
 		<Item Name="Read Online Data.vi" Type="VI" URL="../VIs/Read Online Data.vi"/>
 		<Item Name="Sampling Stats.vi" Type="VI" URL="../VIs/Sampling Stats.vi"/>
-		<Item Name="Vizualise Filter.vi" Type="VI" URL="../VIs/Vizualise Filter.vi"/>
 	</Item>
 	<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
 </Library>
