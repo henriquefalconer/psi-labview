@@ -21,7 +21,10 @@
 		<Item Name="ByteArray_754IEEEDouble.vi" Type="VI" URL="../VIs/ByteArray_754IEEEDouble.vi"/>
 		<Item Name="Close Online Input.vi" Type="VI" URL="../VIs/Close Online Input.vi"/>
 		<Item Name="Configure Input Online.vi" Type="VI" URL="../VIs/Configure Input Online.vi"/>
+		<Item Name="Cut Waveform with Cursors.vi" Type="VI" URL="../VIs/Cut Waveform with Cursors.vi"/>
+		<Item Name="FFT Max 5 Values.vi" Type="VI" URL="../VIs/FFT Max 5 Values.vi"/>
 		<Item Name="FlattenByteArray.vi" Type="VI" URL="../VIs/FlattenByteArray.vi"/>
+		<Item Name="Get Frequency and Amplitude.vi" Type="VI" URL="../VIs/Get Frequency and Amplitude.vi"/>
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
 		<Item Name="Get Modal Sampling Frequency.vi" Type="VI" URL="../VIs/Get Modal Sampling Frequency.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../VIs/Get Raw Data.vi"/>
