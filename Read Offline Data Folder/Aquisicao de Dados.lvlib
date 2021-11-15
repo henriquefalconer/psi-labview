@@ -34,5 +34,6 @@
 		<Item Name="Sampling Stats.vi" Type="VI" URL="../VIs/Sampling Stats.vi"/>
 		<Item Name="Windowed Data.vi" Type="VI" URL="../VIs/Windowed Data.vi"/>
 	</Item>
+	<Item Name="Frequency Modulator.vi" Type="VI" URL="../VIs/Frequency Modulator.vi"/>
 	<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
 </Library>
