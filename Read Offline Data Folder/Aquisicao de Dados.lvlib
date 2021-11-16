@@ -24,6 +24,7 @@
 		<Item Name="Cut Waveform with Cursors.vi" Type="VI" URL="../VIs/Cut Waveform with Cursors.vi"/>
 		<Item Name="FFT Max 5 Values.vi" Type="VI" URL="../VIs/FFT Max 5 Values.vi"/>
 		<Item Name="FlattenByteArray.vi" Type="VI" URL="../VIs/FlattenByteArray.vi"/>
+		<Item Name="Frequency Modulator.vi" Type="VI" URL="../VIs/Frequency Modulator.vi"/>
 		<Item Name="Get Frequency and Amplitude.vi" Type="VI" URL="../VIs/Get Frequency and Amplitude.vi"/>
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
 		<Item Name="Get Modal Sampling Frequency.vi" Type="VI" URL="../VIs/Get Modal Sampling Frequency.vi"/>
@@ -34,6 +35,6 @@
 		<Item Name="Sampling Stats.vi" Type="VI" URL="../VIs/Sampling Stats.vi"/>
 		<Item Name="Windowed Data.vi" Type="VI" URL="../VIs/Windowed Data.vi"/>
 	</Item>
-	<Item Name="Frequency Modulator.vi" Type="VI" URL="../VIs/Frequency Modulator.vi"/>
+	<Item Name="Excluir.vi" Type="VI" URL="../Excluir.vi"/>
 	<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
 </Library>
