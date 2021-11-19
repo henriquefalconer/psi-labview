@@ -22,11 +22,11 @@
 		<Item Name="Close Online Input.vi" Type="VI" URL="../VIs/Close Online Input.vi"/>
 		<Item Name="Configure Input Online.vi" Type="VI" URL="../VIs/Configure Input Online.vi"/>
 		<Item Name="Cut Waveform with Cursors.vi" Type="VI" URL="../VIs/Cut Waveform with Cursors.vi"/>
-		<Item Name="Excluir.vi" Type="VI" URL="../Excluir.vi"/>
 		<Item Name="FFT Max 5 Values.vi" Type="VI" URL="../VIs/FFT Max 5 Values.vi"/>
 		<Item Name="FlattenByteArray.vi" Type="VI" URL="../VIs/FlattenByteArray.vi"/>
 		<Item Name="Frequency Demodulator.vi" Type="VI" URL="../VIs/Frequency Demodulator.vi"/>
 		<Item Name="Frequency Modulator 2.vi" Type="VI" URL="../VIs/Frequency Modulator 2.vi"/>
+		<Item Name="Frequency Modulator 3.vi" Type="VI" URL="../VIs/Frequency Modulator 3.vi"/>
 		<Item Name="Frequency Modulator.vi" Type="VI" URL="../VIs/Frequency Modulator.vi"/>
 		<Item Name="Get Frequency and Amplitude.vi" Type="VI" URL="../VIs/Get Frequency and Amplitude.vi"/>
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
